@@ -1,0 +1,1 @@
+This repository contains a simple HTML file demonstrating a common, yet easily missed, error in JavaScript: a typo in the `getElementById` method. The `bug.html` file shows the incorrect code, while `bugSolution.html` provides the corrected version.
